@@ -1,0 +1,89 @@
+body {
+  background-color: #6c57f3;
+  font: #000000;
+}
+.query {
+  margin: 20px;
+}
+
+.index {
+  margin: 20px;
+}
+.btn-primary {
+  margin-top: 20px;
+  background-color: #bfff00;
+  color: black;
+  border: black;
+}
+
+.btn-primary:hover {
+  background-color: black;
+  color: #bfff00;
+  transition: 1s;
+  border: #bfff00;
+}
+
+.btn-primary:active {
+  background-color: black;
+  color: #bfff00;
+  transition: 1s;
+  border: #bfff00;
+}
+
+.btn-primary:focus {
+  background-color: black;
+  color: #bfff00;
+  transition: 1s;
+  border-color: #bfff00;
+}
+
+.form-control {
+  width: 20%;
+}
+
+.tableName {
+  position: relative;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.tableHeading {
+  position: relative;
+  font-size: 20px;
+  font-weight: 100;
+  margin-top: 50px;
+}
+
+th {
+  border-radius: 20px;
+  font-size: 35px;
+  font-weight: 100;
+  color: #212529;
+}
+.table {
+  background-color: #cbb8ff;
+  color: #212529;
+}
+
+.inlineItems {
+  display: flex;
+  display: inline-block;
+  width: 40%;
+}
+
+.selectTable {
+  font-size: 60px;
+  font-weight: 100;
+}
+
+.flex-column {
+  margin-top: 10%;
+  align-items: center;
+}
+
+.nav {
+  display: inline-block;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
